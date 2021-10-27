@@ -18,13 +18,13 @@ Build & Deploy
 Tasks
 -----
 
- - [+] An idea
+ - [x] An idea
  - [ ] The name
  - [ ] To setup GCP hosting
  - [ ] To Register a domain
  - [ ] Graphical Teaser/Poster/Background
  - [ ] Game heroes visualization
- - [+] Backend & Frontend repos
+ - [x] Backend & Frontend repos
  - [ ] Frontend SPA impl
  - [ ] Simple backend impl
  - [ ] 1 Token SC
