@@ -29,18 +29,18 @@ Tasks
 -----
 
  - [x] An idea
- - [ ] The name
- - [ ] To setup GCP hosting
- - [ ] To Register a domain
- - [ ] Graphical Teaser/Poster/Background
- - [ ] Game heroes visualization
+ - [x] The name - codename "Immoonita"
+ - [x] To setup GCP hosting
+ - [x] To Register a domain[s]
+ - [ ] Graphical Teaser/Poster/Background (Oct 29)
+ - [ ] Game characters visualization
  - [x] Backend & Frontend repos
  - [ ] Frontend SPA impl
  - [ ] Simple backend impl
  - [ ] 1 Token SC
  - [ ] 2 NFT SC
  - [ ] CI/CD, Deployment and Live
- - [ ] Hackayhon registration & submission
+ - [ ] Hackathon registration & submission
  - [ ] Game Engine
  - [ ] Gameplay to define
     - [ ] Mechanic
