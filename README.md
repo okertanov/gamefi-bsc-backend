@@ -17,25 +17,26 @@ Build & Deploy
 
 Tasks
 -----
- [+] An idea
- [ ] The name
- [ ] To setup GCP hosting
- [ ] To Register a domain
- [ ] Graphical Teaser/Poster/Background
- [ ] Game heroes visualization
- [+] Backend & Frontend repos
- [ ] Frontend SPA impl
- [ ] Simple backend impl
- [ ] 1 Token SC
- [ ] 2 NFT SC
- [ ] CI/CD, Deployment and Live
- [ ] Hackayhon registration & submission
- [ ] Game Engine
- [ ] Gameplay to define
-    [ ] Mechanic
-    [ ] Tokenomics
-    [ ] Visualization
-    [ ] Simulation
+
+ - [+] An idea
+ - [ ] The name
+ - [ ] To setup GCP hosting
+ - [ ] To Register a domain
+ - [ ] Graphical Teaser/Poster/Background
+ - [ ] Game heroes visualization
+ - [+] Backend & Frontend repos
+ - [ ] Frontend SPA impl
+ - [ ] Simple backend impl
+ - [ ] 1 Token SC
+ - [ ] 2 NFT SC
+ - [ ] CI/CD, Deployment and Live
+ - [ ] Hackayhon registration & submission
+ - [ ] Game Engine
+ - [ ] Gameplay to define
+    - [ ] Mechanic
+    - [ ] Tokenomics
+    - [ ] Visualization
+    - [ ] Simulation
 
 
 Bullets
