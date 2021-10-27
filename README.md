@@ -5,6 +5,16 @@ Description
 -----------
 GameFi BSC Hackathon for CEE region.
 
+Domains
+-------
+[immoonita.fun](https://immoonita.fun)  
+[immoonita.life](https://immoonita.life)  
+[immoonita.live](https://immoonita.live)  
+[immoonita.world](https://immoonita.world)  
+[immoonita.club](https://immoonita.club)  
+[immoonita.digital](https://immoonita.digital)  
+[immoonita.co.in](https://immoonita.co.in)  
+
 Build & Deploy
 --------------
 
