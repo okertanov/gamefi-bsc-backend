@@ -60,6 +60,8 @@ Bullets
  ------
  [https://bscscan.com/address/0x9ad7ce73cbc2a1844e7946f1ec41b724d99f13cf](https://bscscan.com/address/0x9ad7ce73cbc2a1844e7946f1ec41b724d99f13cf)  
  [https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88152770948736454019167242797182076314526820222454176726680797783889088086017/](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88152770948736454019167242797182076314526820222454176726680797783889088086017/)  
+ [https://t.me/immoonita](https://t.me/immoonita)  
+ [https://t.me/immoonitapub](https://t.me/immoonitapub)  
 
 Links
 -----
